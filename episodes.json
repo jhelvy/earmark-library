@@ -1,21 +1,21 @@
 {
   "config": {
-    "title": "earmark-library",
+    "title": "earmark",
     "description": "Things I meant to read.",
     "author": "earmark",
     "link": "",
     "language": "en-us",
     "category": "Education",
-    "image": null,
+    "image": "https://github.com/earmark-dev/earmark/blob/main/docs/logo.png?raw=true",
     "explicit": false
   },
   "episodes": [
     {
-      "id": "8253a95fd9ecf952",
+      "id": "7268d020ace4a6a5",
       "title": "Opinion | This Is Really Bad - The New York Times",
       "filename": "opinion-this-is-really-bad-the-new-york-times.mp3",
-      "bytes": 12754460,
-      "seconds": 1592.446625,
+      "bytes": 11537176,
+      "seconds": 1440.432,
       "published": "2026-09-24",
       "author": null,
       "source": null,
