@@ -5,7 +5,7 @@
     <description>Things I meant to read.</description>
     <link>https://jhelvy.github.io/earmark-library</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:27:33 +0000</lastBuildDate>
     <generator>earmark</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://jhelvy.github.io/earmark-library/feed.xml" />
     <itunes:author>earmark</itunes:author>
@@ -23,11 +23,11 @@
     </image>
     <item>
       <title>Opinion | This Is Really Bad - The New York Times</title>
-      <description>technology.html 9/24/26, 5:31 AM Opinion | This Is Really Bad - The New York Times 1/13 2/13 OPINION GUEST ESSAY Listen · 21:33 min By Stephen Witt Mr. Witt is the author of "The Thinking Machine," a history of the ay-eye giant Nvidia. Sept. 11, 2026 The biggest vibe shift in artificial…</description>
-      <guid isPermaLink="false">10102ee8d2acc404</guid>
+      <description>OPINION GUEST ESSAY Listen · 21:33 min By Stephen Witt Mr. Witt is the author of "The Thinking Machine," a history of the A-eye giant Nvidia. Sept. 11, 2026 The biggest vibe shift in artificial intelligence since the release of ChatGPT is currently underway. Researchers in Silicon Valley, and…</description>
+      <guid isPermaLink="false">ba131e63d1cb058f</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://jhelvy.github.io/earmark-library/audio/opinion-this-is-really-bad-the-new-york-times.mp3" length="8368805" type="audio/mpeg" />
-      <itunes:duration>0:17:25</itunes:duration>
+      <enclosure url="https://jhelvy.github.io/earmark-library/audio/opinion-this-is-really-bad-the-new-york-times.mp3" length="10565076" type="audio/mpeg" />
+      <itunes:duration>0:21:59</itunes:duration>
     </item>
   </channel>
 </rss>
