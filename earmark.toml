@@ -5,8 +5,8 @@
 #
 # Every setting here is a default; a command-line flag always wins.
 
-# voice = "af_heart"      # see: earmark voices
-# speed = 1.0             # 0.5 to 2.0
+voice = "bm_george"      # see: earmark voices
+speed = 1.2             # 0.5 to 2.0
 # profile = "article"     # article | paper | book
 # lang = "en-us"
 # model = "full"          # full | fp16 | int8
@@ -21,15 +21,16 @@
 # Fix a mispronunciation once instead of every time. Matched on word
 # boundaries, longest key first.
 [replace]
-# BEV = "battery electric vehicle"
+"U.S." = "you ess"
+Xiaomi = "shao mee"
+Hefei = "huh fay"
+BEV = "battery electric vehicle"
 
 # [feed] is last on purpose. TOML puts a key you add at the bottom of the file
 # into whichever table came before it, and an unknown key here warns, while an
 # extra entry under [replace] would look like a word you wanted respoken.
 [feed]
 base_url = "https://jhelvy.github.io/earmark-library"
-title = "earmark-library"
-# author = "Your Name"
-# description = "Things I meant to read."
-# cover = "cover.jpg"     # a file in this folder; square PNG or JPEG
-# image = "https://..."   # or artwork already hosted somewhere; this wins
+title = "earmark"
+description = "Things I meant to read."
+image = "https://github.com/earmark-dev/earmark/blob/main/docs/logo.png?raw=true"
