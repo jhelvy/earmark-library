@@ -5,7 +5,7 @@
     <description>Things I meant to read.</description>
     <link>https://jhelvy.github.io/earmark-library</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:56:52 +0000</lastBuildDate>
     <generator>earmark</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://jhelvy.github.io/earmark-library/feed.xml" />
     <itunes:author>earmark</itunes:author>
@@ -15,5 +15,13 @@
     <itunes:owner>
       <itunes:name>earmark</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Opinion | This Is Really Bad - The New York Times</title>
+      <description>technology.html 9/24/26, 5:31 AM Opinion | This Is Really Bad - The New York Times 1/13 2/13 OPINION GUEST ESSAY Listen · 21:33 min By Stephen Witt Mr. Witt is the author of "The Thinking Machine," a history of the A.I. giant Nvidia. Sept. 11, 2026 The biggest vibe shift in artificial intelligence…</description>
+      <guid isPermaLink="false">8253a95fd9ecf952</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jhelvy.github.io/earmark-library/audio/opinion-this-is-really-bad-the-new-york-times.mp3" length="12754460" type="audio/mpeg" />
+      <itunes:duration>0:26:32</itunes:duration>
+    </item>
   </channel>
 </rss>

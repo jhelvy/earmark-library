@@ -9,5 +9,18 @@
     "image": null,
     "explicit": false
   },
-  "episodes": []
+  "episodes": [
+    {
+      "id": "8253a95fd9ecf952",
+      "title": "Opinion | This Is Really Bad - The New York Times",
+      "filename": "opinion-this-is-really-bad-the-new-york-times.mp3",
+      "bytes": 12754460,
+      "seconds": 1592.446625,
+      "published": "2026-09-24",
+      "author": null,
+      "source": null,
+      "description": "technology.html 9/24/26, 5:31 AM Opinion | This Is Really Bad - The New York Times 1/13 2/13 OPINION GUEST ESSAY Listen \u00b7 21:33 min By Stephen Witt Mr. Witt is the author of \"The Thinking Machine,\" a history of the A.I. giant Nvidia. Sept. 11, 2026 The biggest vibe shift in artificial intelligence\u2026",
+      "listed": "files/This Is Really Bad - Stephen Witt.pdf"
+    }
+  ]
 }
