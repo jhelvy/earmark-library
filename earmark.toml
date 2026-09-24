@@ -6,7 +6,7 @@
 # Every setting here is a default; a command-line flag always wins.
 
 voice = "bm_george"      # see: earmark voices
-speed = 1.2             # 0.5 to 2.0
+speed = 1.5             # 0.5 to 2.0
 # profile = "article"     # article | paper | book
 # lang = "en-us"
 # model = "full"          # full | fp16 | int8
@@ -21,7 +21,8 @@ speed = 1.2             # 0.5 to 2.0
 # Fix a mispronunciation once instead of every time. Matched on word
 # boundaries, longest key first.
 [replace]
-"U.S." = "you ess"
+"U.S." = "you-ess"
+"A.I." = "ay-eye"
 Xiaomi = "shao mee"
 Hefei = "huh fay"
 BEV = "battery electric vehicle"
