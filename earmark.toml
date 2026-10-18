@@ -22,10 +22,12 @@ speed = 1.3             # 0.5 to 2.0
 # boundaries, longest key first.
 [replace]
 "U.S." = "you-ess"
-"A.I." = "A-eye"
+"A.I." = "A eye"
+"AI" = "A eye"
 Xiaomi = "shao mee"
 Hefei = "huh fay"
 BEV = "battery electric vehicle"
+"G.O.P." = "gee oh pee"
 
 # [feed] is last on purpose. TOML puts a key you add at the bottom of the file
 # into whichever table came before it, and an unknown key here warns, while an
