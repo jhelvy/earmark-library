@@ -5,7 +5,7 @@
     <description>Things I meant to read.</description>
     <link>https://jhelvy.github.io/earmark-library</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:41:21 +0000</lastBuildDate>
     <generator>earmark</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://jhelvy.github.io/earmark-library/feed.xml" />
     <itunes:author>earmark</itunes:author>
@@ -28,6 +28,14 @@
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://jhelvy.github.io/earmark-library/audio/a-trump-backlash-endangers-susan-collins-the-only-blue-state.mp3" length="4526984" type="audio/mpeg" />
       <itunes:duration>0:09:25</itunes:duration>
+    </item>
+    <item>
+      <title>I Teach at a Business School, It’s Time to Shut Them Down</title>
+      <description>This fall, another cohort of ambitious young professionals has arrived at business schools around the world for two-year programs with price tags in the six figures. Their presence at some of the nicest and shiniest buildings on campus renews a familiar question: What exactly is an M.B.A. for? This…</description>
+      <guid isPermaLink="false">42c1aec79190654c</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jhelvy.github.io/earmark-library/audio/i-teach-at-a-business-school-its-time-to-shut-them-down.mp3" length="7381705" type="audio/mpeg" />
+      <itunes:duration>0:15:22</itunes:duration>
     </item>
   </channel>
 </rss>
