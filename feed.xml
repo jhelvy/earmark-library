@@ -5,7 +5,7 @@
     <description>Things I meant to read.</description>
     <link>https://jhelvy.github.io/earmark-library</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:22:18 +0000</lastBuildDate>
     <generator>earmark</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://jhelvy.github.io/earmark-library/feed.xml" />
     <itunes:author>earmark</itunes:author>
@@ -22,20 +22,14 @@
       <link>https://jhelvy.github.io/earmark-library</link>
     </image>
     <item>
-      <title>A Trump Backlash Endangers Susan Collins, the Only Blue State G.O.P. Senator</title>
-      <description>Senator Susan Collins, Republican of Maine, is facing a moment like no other in her three decades in office, one that is testing whether her moderate brand of politics can survive perhaps the most polarizing presidency in modern history. Ms. Collins, a symbol of centrism and a paragon of decorum,…</description>
-      <guid isPermaLink="false">754df7fccf0c3d80</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://jhelvy.github.io/earmark-library/audio/a-trump-backlash-endangers-susan-collins-the-only-blue-state.mp3" length="4526984" type="audio/mpeg" />
-      <itunes:duration>0:09:25</itunes:duration>
-    </item>
-    <item>
-      <title>I Teach at a Business School, It’s Time to Shut Them Down</title>
-      <description>This fall, another cohort of ambitious young professionals has arrived at business schools around the world for two-year programs with price tags in the six figures. Their presence at some of the nicest and shiniest buildings on campus renews a familiar question: What exactly is an M.B.A. for? This…</description>
-      <guid isPermaLink="false">42c1aec79190654c</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://jhelvy.github.io/earmark-library/audio/i-teach-at-a-business-school-its-time-to-shut-them-down.mp3" length="7381705" type="audio/mpeg" />
-      <itunes:duration>0:15:22</itunes:duration>
+      <title>Inside China’s robotics revolution</title>
+      <description>Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element, up close with the technology he builds, or in business meetings…</description>
+      <guid isPermaLink="false">3c7d8c087c04d5d9</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jhelvy.github.io/earmark-library/audio/inside-chinas-robotics-revolution.mp3" length="15703413" type="audio/mpeg" />
+      <itunes:duration>0:32:41</itunes:duration>
+      <itunes:author>Chang Che</itunes:author>
+      <link>https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution</link>
     </item>
   </channel>
 </rss>
