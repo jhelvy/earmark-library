@@ -9,18 +9,5 @@
     "image": "https://github.com/earmark-dev/earmark/blob/main/docs/logo.png?raw=true",
     "explicit": false
   },
-  "episodes": [
-    {
-      "id": "3c7d8c087c04d5d9",
-      "title": "Inside China\u2019s robotics revolution",
-      "filename": "inside-chinas-robotics-revolution.mp3",
-      "bytes": 15703413,
-      "seconds": 1960.6930416666667,
-      "published": "2026-03-19",
-      "author": "Chang Che",
-      "source": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
-      "description": "Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element, up close with the technology he builds, or in business meetings\u2026",
-      "listed": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution"
-    }
-  ]
+  "episodes": []
 }
