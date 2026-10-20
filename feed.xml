@@ -5,7 +5,7 @@
     <description>Things I meant to read.</description>
     <link>https://jhelvy.github.io/earmark-library</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:31:35 +0000</lastBuildDate>
     <generator>earmark</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://jhelvy.github.io/earmark-library/feed.xml" />
     <itunes:author>earmark</itunes:author>
@@ -21,15 +21,5 @@
       <title>earmark</title>
       <link>https://jhelvy.github.io/earmark-library</link>
     </image>
-    <item>
-      <title>Inside China’s robotics revolution</title>
-      <description>Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element, up close with the technology he builds, or in business meetings…</description>
-      <guid isPermaLink="false">3c7d8c087c04d5d9</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://jhelvy.github.io/earmark-library/audio/inside-chinas-robotics-revolution.mp3" length="15703413" type="audio/mpeg" />
-      <itunes:duration>0:32:41</itunes:duration>
-      <itunes:author>Chang Che</itunes:author>
-      <link>https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution</link>
-    </item>
   </channel>
 </rss>
