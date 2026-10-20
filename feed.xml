@@ -5,7 +5,7 @@
     <description>Things I meant to read.</description>
     <link>https://jhelvy.github.io/earmark-library</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:44:20 +0000</lastBuildDate>
     <generator>earmark</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://jhelvy.github.io/earmark-library/feed.xml" />
     <itunes:author>earmark</itunes:author>
@@ -21,5 +21,13 @@
       <title>earmark</title>
       <link>https://jhelvy.github.io/earmark-library</link>
     </image>
+    <item>
+      <title>Three reasons why AI is not conscious and perhaps never will be</title>
+      <description>Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience. Artificial-intelligence systems such as large language models (LLMs) can exhibit behaviour that seems strikingly…</description>
+      <guid isPermaLink="false">9db758a726e005cc</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jhelvy.github.io/earmark-library/audio/three-reasons-why-ai-is-not-conscious-and-perhaps-never-will.mp3" length="5495894" type="audio/mpeg" />
+      <itunes:duration>0:11:26</itunes:duration>
+    </item>
   </channel>
 </rss>

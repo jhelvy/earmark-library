@@ -9,5 +9,18 @@
     "image": "https://github.com/earmark-dev/earmark/blob/main/docs/logo.png?raw=true",
     "explicit": false
   },
-  "episodes": []
+  "episodes": [
+    {
+      "id": "9db758a726e005cc",
+      "title": "Three reasons why AI is not conscious and perhaps never will be",
+      "filename": "three-reasons-why-ai-is-not-conscious-and-perhaps-never-will.mp3",
+      "bytes": 5495894,
+      "seconds": 686.014125,
+      "published": "2026-10-20",
+      "author": null,
+      "source": null,
+      "description": "Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience. Artificial-intelligence systems such as large language models (LLMs) can exhibit behaviour that seems strikingly\u2026",
+      "listed": "files/Three reasons why AI is not conscious and perhaps never will be.md"
+    }
+  ]
 }
